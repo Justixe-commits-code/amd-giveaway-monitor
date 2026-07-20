@@ -65,7 +65,7 @@
   "2daf90c5-a96c-4621-8222-17050e47e375": {
     "title": "World of Warships - Naval Supplies Giveaway",
     "status": "active",
-    "keysAvailable": 5789,
+    "keysAvailable": 5787,
     "updatedAt": 1775059042,
     "slug": "world-of-warships-naval-supplies-giveaway-2"
   },
@@ -100,7 +100,7 @@
   "42ad924d-9743-4978-b034-d87ad0ddfc05": {
     "title": "GOALS Kit Giveaway",
     "status": "active",
-    "keysAvailable": 7256,
+    "keysAvailable": 7252,
     "updatedAt": 1783362842,
     "slug": "goals-kit-giveaway"
   },
@@ -117,5 +117,12 @@
     "keysAvailable": 0,
     "updatedAt": 1783958353,
     "slug": "curse-of-the-sea-rats-giveaway"
+  },
+  "b01fb9ec-9ace-4db6-bb2a-64c36a1ec35d": {
+    "title": "Starsand Island Giveaway",
+    "status": "active",
+    "keysAvailable": 0,
+    "updatedAt": 1784562931,
+    "slug": "starsand-island-giveaway"
   }
 }
