@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 API_URL = "https://www.amdgaming.com/promotions"
 
 STATE_FILE = "amd_state.json"
-WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK","https://discord.com/api/webhooks/1528295172096659486/_dwcUjlAC-OorUKLN68I1vf835oGLMpFmtpd_a2tJGHbiozFe5xxMJVCw9W4YKZvEtH-")
+WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 
 # Optional role ping. Add this in GitHub Secrets if you want.
 # Example value: <@&123456789012345678>
